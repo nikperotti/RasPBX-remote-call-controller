@@ -1,2 +1,2 @@
 # RasPBX-remote-call-controller
-Remote reading of the voip switchboard database
+VOIP switchboard remote control for database for [RasPBX](http://www.raspberry-asterisk.org/)
